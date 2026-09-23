@@ -1,4 +1,4 @@
-# CodeAlpha Student Grade Tracker - Java Internship Task 2
+# CodeAlpha Student Grade Tracker - Java Internship Task 1
 
 This is Task 1 of my Java Development Internship @CodeAlpha.
 
